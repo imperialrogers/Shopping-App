@@ -1,0 +1,56 @@
+# ninja log v5
+0	71684	0	/home/imperialrogers/Documents/Flutter Projects/Shopping_App/flutter_complete_guide/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	88b65aef71109f53
+0	71684	0	/home/imperialrogers/Documents/Flutter Projects/Shopping_App/flutter_complete_guide/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	88b65aef71109f53
+71715	75806	1679774107273053045	CMakeFiles/flutter_complete_guide.dir/flutter/generated_plugin_registrant.cc.o	263cb7f6bb9ed19d
+0	71684	0	/home/imperialrogers/Documents/Flutter Projects/Shopping_App/flutter_complete_guide/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	88b65aef71109f53
+0	71684	0	flutter/_phony_	88b65aef71109f53
+0	71684	0	/home/imperialrogers/Documents/Flutter Projects/Shopping_App/flutter_complete_guide/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	88b65aef71109f53
+0	71684	0	/home/imperialrogers/Documents/Flutter Projects/Shopping_App/flutter_complete_guide/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	88b65aef71109f53
+0	71684	0	/home/imperialrogers/Documents/Flutter Projects/Shopping_App/flutter_complete_guide/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	88b65aef71109f53
+0	71684	0	/home/imperialrogers/Documents/Flutter Projects/Shopping_App/flutter_complete_guide/linux/flutter/ephemeral/flutter_linux/fl_value.h	88b65aef71109f53
+0	71684	0	/home/imperialrogers/Documents/Flutter Projects/Shopping_App/flutter_complete_guide/linux/flutter/ephemeral/flutter_linux/fl_engine.h	88b65aef71109f53
+78617	80828	0	CMakeFiles/install.util	204d478ee51b0d3
+0	71684	0	/home/imperialrogers/Documents/Flutter Projects/Shopping_App/flutter_complete_guide/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	88b65aef71109f53
+0	71684	0	/home/imperialrogers/Documents/Flutter Projects/Shopping_App/flutter_complete_guide/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	88b65aef71109f53
+0	71684	0	/home/imperialrogers/Documents/Flutter Projects/Shopping_App/flutter_complete_guide/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	88b65aef71109f53
+76675	78617	1679774110085206760	intermediates_do_not_run/flutter_complete_guide	13ee12a8b8b96183
+71715	76675	1679774108145100738	CMakeFiles/flutter_complete_guide.dir/my_application.cc.o	4a7cc9446e192b35
+71715	76657	1679774108125099645	CMakeFiles/flutter_complete_guide.dir/main.cc.o	6b864551a8b21524
+0	71684	0	/home/imperialrogers/Documents/Flutter Projects/Shopping_App/flutter_complete_guide/linux/flutter/ephemeral/flutter_linux/fl_view.h	88b65aef71109f53
+0	71684	0	/home/imperialrogers/Documents/Flutter Projects/Shopping_App/flutter_complete_guide/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	88b65aef71109f53
+0	71684	0	/home/imperialrogers/Documents/Flutter Projects/Shopping_App/flutter_complete_guide/build/linux/x64/debug/flutter/_phony_	88b65aef71109f53
+0	71684	0	/home/imperialrogers/Documents/Flutter Projects/Shopping_App/flutter_complete_guide/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	88b65aef71109f53
+0	71684	0	/home/imperialrogers/Documents/Flutter Projects/Shopping_App/flutter_complete_guide/linux/flutter/ephemeral/libflutter_linux_gtk.so	88b65aef71109f53
+0	71684	0	/home/imperialrogers/Documents/Flutter Projects/Shopping_App/flutter_complete_guide/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	88b65aef71109f53
+0	71684	0	/home/imperialrogers/Documents/Flutter Projects/Shopping_App/flutter_complete_guide/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	88b65aef71109f53
+0	71684	0	/home/imperialrogers/Documents/Flutter Projects/Shopping_App/flutter_complete_guide/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	88b65aef71109f53
+0	71684	0	/home/imperialrogers/Documents/Flutter Projects/Shopping_App/flutter_complete_guide/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	88b65aef71109f53
+0	71684	0	/home/imperialrogers/Documents/Flutter Projects/Shopping_App/flutter_complete_guide/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	88b65aef71109f53
+0	71684	0	/home/imperialrogers/Documents/Flutter Projects/Shopping_App/flutter_complete_guide/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	88b65aef71109f53
+2	7482	0	/home/imperialrogers/Documents/Flutter Projects/Shopping_App/flutter_complete_guide/linux/flutter/ephemeral/libflutter_linux_gtk.so	88b65aef71109f53
+2	7482	0	/home/imperialrogers/Documents/Flutter Projects/Shopping_App/flutter_complete_guide/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	88b65aef71109f53
+2	7482	0	/home/imperialrogers/Documents/Flutter Projects/Shopping_App/flutter_complete_guide/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	88b65aef71109f53
+2	7482	0	/home/imperialrogers/Documents/Flutter Projects/Shopping_App/flutter_complete_guide/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	88b65aef71109f53
+2	7482	0	/home/imperialrogers/Documents/Flutter Projects/Shopping_App/flutter_complete_guide/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	88b65aef71109f53
+2	7482	0	/home/imperialrogers/Documents/Flutter Projects/Shopping_App/flutter_complete_guide/linux/flutter/ephemeral/flutter_linux/fl_engine.h	88b65aef71109f53
+2	7482	0	/home/imperialrogers/Documents/Flutter Projects/Shopping_App/flutter_complete_guide/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	88b65aef71109f53
+2	7482	0	/home/imperialrogers/Documents/Flutter Projects/Shopping_App/flutter_complete_guide/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	88b65aef71109f53
+2	7482	0	/home/imperialrogers/Documents/Flutter Projects/Shopping_App/flutter_complete_guide/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	88b65aef71109f53
+2	7482	0	/home/imperialrogers/Documents/Flutter Projects/Shopping_App/flutter_complete_guide/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	88b65aef71109f53
+2	7482	0	/home/imperialrogers/Documents/Flutter Projects/Shopping_App/flutter_complete_guide/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	88b65aef71109f53
+2	7482	0	/home/imperialrogers/Documents/Flutter Projects/Shopping_App/flutter_complete_guide/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	88b65aef71109f53
+2	7482	0	/home/imperialrogers/Documents/Flutter Projects/Shopping_App/flutter_complete_guide/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	88b65aef71109f53
+2	7482	0	/home/imperialrogers/Documents/Flutter Projects/Shopping_App/flutter_complete_guide/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	88b65aef71109f53
+2	7482	0	/home/imperialrogers/Documents/Flutter Projects/Shopping_App/flutter_complete_guide/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	88b65aef71109f53
+2	7482	0	/home/imperialrogers/Documents/Flutter Projects/Shopping_App/flutter_complete_guide/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	88b65aef71109f53
+2	7482	0	/home/imperialrogers/Documents/Flutter Projects/Shopping_App/flutter_complete_guide/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	88b65aef71109f53
+2	7482	0	/home/imperialrogers/Documents/Flutter Projects/Shopping_App/flutter_complete_guide/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	88b65aef71109f53
+2	7482	0	/home/imperialrogers/Documents/Flutter Projects/Shopping_App/flutter_complete_guide/linux/flutter/ephemeral/flutter_linux/fl_value.h	88b65aef71109f53
+2	7482	0	/home/imperialrogers/Documents/Flutter Projects/Shopping_App/flutter_complete_guide/linux/flutter/ephemeral/flutter_linux/fl_view.h	88b65aef71109f53
+2	7482	0	/home/imperialrogers/Documents/Flutter Projects/Shopping_App/flutter_complete_guide/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	88b65aef71109f53
+2	7482	0	flutter/_phony_	88b65aef71109f53
+2	7482	0	/home/imperialrogers/Documents/Flutter Projects/Shopping_App/flutter_complete_guide/build/linux/x64/debug/flutter/_phony_	88b65aef71109f53
+7482	8484	1679776531027753728	CMakeFiles/flutter_complete_guide.dir/my_application.cc.o	4a7cc9446e192b35
+7483	8539	1679776531083754669	CMakeFiles/flutter_complete_guide.dir/flutter/generated_plugin_registrant.cc.o	263cb7f6bb9ed19d
+8540	8795	1679776531335758903	intermediates_do_not_run/flutter_complete_guide	ee24f99bff078458
+8795	9683	0	CMakeFiles/install.util	204d478ee51b0d3
